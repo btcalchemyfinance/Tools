@@ -10,3 +10,7 @@ curl -o install-node.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Too
 ```bash
 curl -o install-python.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/install-python.sh && chmod +x install-python.sh &&  ./install-python.sh
 ```
+## To check CPU information on your system
+```bash
+curl -o dashboard.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/dashboard.sh && chmod +x dashboard.sh && ./dashboard.sh
+```
