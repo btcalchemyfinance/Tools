@@ -22,3 +22,7 @@ curl -o dashboard.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/
 ```bash
 curl -o monitor_cpu_space.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/monitor_cpu_space.sh && chmod +x monitor_cpu_space.sh && ./monitor_cpu_space.sh
 ```
+## check the available space and memory on a system
+```bash
+curl -o check_space_memory.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/check_space_memory.sh && chmod +x check_space_memory.sh && ./check_space_memory.sh
+```
