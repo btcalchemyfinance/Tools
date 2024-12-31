@@ -1,3 +1,7 @@
+## To script that checks the system's vCPU cores, RAM, and SSD (disk) usage
+```bash
+curl -o system_info.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/system_info.sh && chmod +x system_info.sh && ./system_info.sh
+```
 ## Downlad Docker.sh file
 ```bash
 curl -o install_docker_compose.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/install_docker_copose.sh  && chmod +x install_docker_compose.sh  && ./install_docker_compose.sh
