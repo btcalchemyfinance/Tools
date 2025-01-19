@@ -24,5 +24,6 @@ echo -e " 🌐 —————————————————————�
 echo -e "                 \033[48;2;9;10;12m 法师/AlchemyFinance \e[0m";
 echo -e "\e[0;37m 油管频道: \e[4;35mhttps://www.youtube.com/@alchemyfinance/";
 echo -e "\e[0;37m 法师社群: \e[4;35mhttps://t.me/ytalchemy/";
+echo -e '\e[34m'
 echo -e ""
 echo -e ""
